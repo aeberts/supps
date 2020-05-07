@@ -1,0 +1,4 @@
+(ns supps.db)
+
+(def default-db
+  {:name "re-frame"})
